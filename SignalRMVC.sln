@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRMVC", "SignalRMVC\SignalRMVC.csproj", "{34AA2DCB-9156-43E1-8DA2-1CE78ECC67FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDAL", "SignalRDAL\SignalRDAL.csproj", "{3A229AC8-75F3-498C-9C28-0ECA5427B78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRModel", "SignalRModel\SignalRModel.csproj", "{CF82435F-AE7F-46C1-9056-5CD6EA510AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRInterface", "SignalRInterface\SignalRInterface.csproj", "{C18FAD47-9B97-48CB-B1BC-68F35550A2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AA2DCB-9156-43E1-8DA2-1CE78ECC67FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AA2DCB-9156-43E1-8DA2-1CE78ECC67FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AA2DCB-9156-43E1-8DA2-1CE78ECC67FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AA2DCB-9156-43E1-8DA2-1CE78ECC67FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A229AC8-75F3-498C-9C28-0ECA5427B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A229AC8-75F3-498C-9C28-0ECA5427B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A229AC8-75F3-498C-9C28-0ECA5427B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A229AC8-75F3-498C-9C28-0ECA5427B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF82435F-AE7F-46C1-9056-5CD6EA510AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF82435F-AE7F-46C1-9056-5CD6EA510AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF82435F-AE7F-46C1-9056-5CD6EA510AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF82435F-AE7F-46C1-9056-5CD6EA510AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18FAD47-9B97-48CB-B1BC-68F35550A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18FAD47-9B97-48CB-B1BC-68F35550A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18FAD47-9B97-48CB-B1BC-68F35550A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18FAD47-9B97-48CB-B1BC-68F35550A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
